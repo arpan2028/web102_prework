@@ -34,7 +34,6 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 It was toooo much fun. Let me know(email) who created this. I would like to personally appreciate them.
 
 ## License
