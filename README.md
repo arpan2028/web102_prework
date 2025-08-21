@@ -26,7 +26,7 @@ https://imgur.com/a/T0uEjUb
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  Kap
 <!-- Recommended tools:
 [Kap]([https://getkap.co/](https://imgur.com/a/T0uEjUb)) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
