@@ -22,13 +22,13 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+https://imgur.com/a/T0uEjUb
 
-<img src='https://imgur.com/a/T0uEjUb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+[Kap]([https://getkap.co/](https://imgur.com/a/T0uEjUb)) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
